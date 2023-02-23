@@ -1,2 +1,2 @@
 # ProductsManager
-First Blazor app
+First Blazor app CI TEST
